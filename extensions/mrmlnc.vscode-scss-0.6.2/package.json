@@ -99,7 +99,7 @@
 		"@types/mocha": "^2.2.39",
 		"@types/node": "^7.0.5",
 		"@types/parse-glob": "^3.0.29",
-		"mocha": "^3.2.0",
+		"mocha": "^4.0.0",
 		"rimraf": "^2.6.1",
 		"tslint": "^4.5.1",
 		"tslint-config-xo": "^1.1.0",
